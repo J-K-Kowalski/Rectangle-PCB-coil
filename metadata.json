@@ -1,0 +1,25 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schema/v2",
+    "name": "Rectangle PCB Coil Generator",
+    "description": "Generates a two-layer rectangular spiral coil with chamfered corners.",
+    "description_full": "A KiCad plugin to generate a two-layer rectangular spiral coil.",
+    "identifier": "com.github.J-K-Kowalski.Rectangle-PCB-coil",
+    "type": "plugin",
+    "author": {
+        "name": "Jerzy K. Kowalski",
+        "contact": {
+            "web": "https://github.com/J-K-Kowalski"
+        }
+    },
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/J-K-Kowalski/Rectangle-PCB-coil"
+    },
+    "versions": [
+        {
+            "version": "1.0",
+            "status": "stable",
+            "kicad_version": "10.0"
+        }
+    ]
+}
